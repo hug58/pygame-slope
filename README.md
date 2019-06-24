@@ -1,5 +1,5 @@
-# ramps
-hacer rampas no es tan fácil, así que decidí hacer una con tiles 
+# Slopes
+hacer pendientes no es tan fácil, así que decidí hacer una con tiles 
 
 <img src = "https://github.com/hug58/ramps/blob/master/ejemplos/ejemplo_1.gif">
 
