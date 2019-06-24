@@ -1,6 +1,8 @@
 # Slopes
 hacer pendientes no es tan fácil, así que decidí hacer una con tiles 
 
+<h4> requiere pygame, pytmx y python 3.x </h4>
+
 <img src = "https://github.com/hug58/ramps/blob/master/ejemplos/ejemplo_1.gif">
 
 
