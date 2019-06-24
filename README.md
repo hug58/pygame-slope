@@ -1,5 +1,5 @@
 # Slopes
-hacer pendientes no es tan fácil, así que decidí hacer una con tiles 
+hacer pendientes no es tan fácil, así que decidí hacer una con tiles usando la herramienta tiled 
 
 <h4> requiere pygame, pytmx y python 3.x </h4>
 
